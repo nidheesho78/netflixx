@@ -5,6 +5,13 @@
 -Header
 -Login Form
 -Sign Up Form
+-Routing
+-Form Validation
+-What is useRef hook
+-Firebase Setup
+-Deployed application
+-Create Sign up user Account
+-Created redux store with userSlice
 -
 
 ...
